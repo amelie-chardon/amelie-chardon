@@ -1,4 +1,5 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with PHP/Javascript/SQL
-- 🌱 I’m currently learning Symfony Framework
+- 🌱 I’m currently learning how to make Progressive Web App & Symfony Framework
+- :smile_cat: I'm in love with my cat
