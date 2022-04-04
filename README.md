@@ -8,5 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelie-chardon&theme=dracula&count_private=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amelie_chardon&layout=compact&theme=dracula)](https://github.com/amelie-chardon/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amelie_chardon&theme=dracula)](https://github.com/amelie-chardon/github-readme-stats)
+
+
 
